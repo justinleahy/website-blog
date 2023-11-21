@@ -1,3 +1,3 @@
 # 🏠 Home
 
-This blog will be used for my progress updates on my Rust portfolio project.
+Highly work in progress. Will be updating this blog as I can.
